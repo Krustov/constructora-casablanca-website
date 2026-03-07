@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Roboto", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-tech: "Inter", ui-monospace, SFMono-Regular, monospace;
+
+  --color-casa-red: #C62828;
+  --color-casa-gray: #4A4A4A;
+  --color-casa-light: #F2F2F2;
+  --color-casa-dark: #1C1C1C;
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-casa-light text-casa-dark antialiased selection:bg-casa-red selection:text-white;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
