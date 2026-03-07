@@ -60,7 +60,7 @@ export const PRODUCTOS = [
     description: 'Basado en polímeros acrílicos que mejora la resistencia del terreno y controla la emisión de polvo.',
     benefits: ['Aumenta el CBR hasta un 60%', 'Impermeabiliza el terreno', 'Evita erosión eólica y pluvial'],
     icon: ShieldCheck,
-    pdf: '/DirtFix100.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   },
   {
     name: 'DirtFix 5000',
@@ -68,7 +68,7 @@ export const PRODUCTOS = [
     description: 'Estabilizador de suelos de alta concentración para pavimentación química.',
     benefits: ['Alta capacidad ligante', 'Gran resistencia mecánica', 'Adaptable a distintos suelos'],
     icon: Wrench,
-    pdf: '/DirtFix5000.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   },
   {
     name: 'DustFix 300',
@@ -76,7 +76,7 @@ export const PRODUCTOS = [
     description: 'Basado en mezcla polimérica acuosa de alta resistencia.',
     benefits: ['Caminos', 'Estacionamientos', 'Taludes', 'Zonas industriales'],
     icon: Droplets,
-    pdf: '/DustFix300.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   },
   {
     name: 'G-500',
@@ -84,7 +84,7 @@ export const PRODUCTOS = [
     description: 'Sistema diseñado para operaciones mineras y correas transportadoras.',
     benefits: ['Control eficiente', 'Fácil aplicación', 'No interfiere en procesos'],
     icon: Wind,
-    pdf: '/G-500.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   },
   {
     name: 'BoreFix 500',
@@ -92,7 +92,7 @@ export const PRODUCTOS = [
     description: 'Diseñado para recubrir paredes de pozos durante perforación con aire.',
     benefits: ['Evita derrumbes', 'Mejora productividad', 'Ideal para exploración'],
     icon: ArrowRight,
-    pdf: '/BoreFix500.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   },
   {
     name: 'CFX-8500',
@@ -100,7 +100,7 @@ export const PRODUCTOS = [
     description: 'Emulsión polimérica altamente impermeable de elevada resistencia a la hidrólisis.',
     benefits: ['Estructura de malla', 'Resistencia a la tracción', 'Ideal para suelos con elevado IP'],
     icon: Building2,
-    pdf: '/CFX-8500.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   },
   {
     name: 'RA-500',
@@ -108,7 +108,7 @@ export const PRODUCTOS = [
     description: 'Producto acuoso basado en emulsión polimérica para el rejuvenecimiento de asfalto.',
     benefits: ['Altamente impermeable', 'Resistencia a la hidrólisis', 'Rápida aplicación'],
     icon: HardHat,
-    pdf: '/RA-500.pdf'
+    pdf: 'https://drive.google.com/drive/folders/12ehgZZclcfE1NGuJHrXrjTV3Im4pk1Rz?usp=sharing'
   }
 ];
 
