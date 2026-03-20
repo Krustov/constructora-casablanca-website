@@ -14,7 +14,7 @@ export function Advantages() {
               ¿Por qué elegir Casablanca?
             </h3>
             <p className="text-white/80 font-sans mb-8">
-              Optimizamos los costos y reducimos el impacto ambiental frente a soluciones tradicionales como asfaltos u hormigón, garantizando resultados superiores en condiciones extremas.
+              Optimizamos los costos y reducimos el impacto ambiental frente a soluciones tradicionales como asfaltos u hormigón,  incluso en condiciones extremas.
             </p>
           </div>
           
